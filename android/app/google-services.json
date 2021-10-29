@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "800607405867",
+    "firebase_url": "https://chitieu-93822-default-rtdb.firebaseio.com",
+    "project_id": "chitieu-93822",
+    "storage_bucket": "chitieu-93822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800607405867:android:515477ca36116f7b9ba76e",
+        "android_client_info": {
+          "package_name": "com.chitieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800607405867-fm7rmij3d74c0s5e2qm8htbocvnrkh5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4MORNlX73cfI3KjdvpoIL_M-f5c14Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800607405867-fm7rmij3d74c0s5e2qm8htbocvnrkh5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800607405867:android:4e5661f35a59870d9ba76e",
+        "android_client_info": {
+          "package_name": "com.ths4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800607405867-fm7rmij3d74c0s5e2qm8htbocvnrkh5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4MORNlX73cfI3KjdvpoIL_M-f5c14Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800607405867-fm7rmij3d74c0s5e2qm8htbocvnrkh5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
